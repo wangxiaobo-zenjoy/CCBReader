@@ -8,7 +8,12 @@
 // Modification added by Viktor Lidholt
 //
 
-#import "cocos2d.h"
+#import "CCNode.h"
+
+
+@class CCSprite;
+@class CCSpriteFrame;
+@class CCSpriteBatchNode;
 
 /**
  * A 9-slice sprite for cocos2d.
