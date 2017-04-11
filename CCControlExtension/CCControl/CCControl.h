@@ -25,6 +25,7 @@
  */
 
 #import <Foundation/Foundation.h>
+#import "CCLayer.h"
 
 /** Number of kinds of control event. */
 #define kControlEventTotalNumber 9
