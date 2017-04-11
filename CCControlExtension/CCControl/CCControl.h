@@ -25,7 +25,6 @@
  */
 
 #import <Foundation/Foundation.h>
-#import "cocos2d.h"
 
 /** Number of kinds of control event. */
 #define kControlEventTotalNumber 9
